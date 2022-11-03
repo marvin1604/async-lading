@@ -1,0 +1,22 @@
+{
+  "name": "async-lading",
+  "version": "1.0.0",
+  "description": "proyecto practico de asincronismo js",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvin1604/async-lading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvin1604/async-lading/issues"
+  },
+  "homepage": "https://github.com/marvin1604/async-lading#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
